@@ -1,6 +1,28 @@
-# MyFirstApp
+# ngBasicRoutings
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
+
+## How to install
+
+1) download or clone using the below command
+
+`git clone https://github.com/Jeyaprakash1206/ngBasicRoutings.git`
+
+2) go to that downloaded folder
+
+`cd ngBasicRoutings`
+
+3) Install all the dependencies using the following command
+
+`npm install`
+
+4) Run and check
+
+`ng serve`
+
+**Screenshot**
+
+![Screenshot](https://github.com/Jeyaprakash1206/ngBasicRoutings/blob/master/src/assets/img/screenshot.PNG)
 
 ## Development server
 
